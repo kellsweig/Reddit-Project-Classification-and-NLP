@@ -1,7 +1,7 @@
 # ***Reddit-Project***
 
-# The Challenge
-A large outdoor sports retailer is looking to improve their online marketing strategy. They wish to create better targeted advertisements for gear in their camping and backpacking categories. The marketing team has asked me to create a model that can determine from online text whether the potential customer is more likely/ primarily an ultralight backpacker or a camper. The text the model will be deployed on will be social media posts and comments across different platforms as well as comments on the sports retailer's website and blogs. 
+# Introduction
+As part of my immersive data science program, I was assigned a project to collect Reddit posts from different subreddits and classify which subreddit they came from. I chose to develop a project focused on addressing a practical challenge presented by a fictitious outdoor sports retailer. Tasked with enhancing their online marketing strategy, the goal was to develop a machine learning model capable of classifying potential customers into two categories: ultralight backpackers and campers. The model would analyze online text from social media posts, comments, and the retailer's platforms to better target advertisements for camping and backpacking gear. The project delves into the nuances between these outdoor enthusiasts, considering factors like gear preferences and communication styles. To build the Natural Language Processing (NLP) classification model, I collected text data from Reddit's r/ultralight and r/camping subreddits, meticulously processed it, and employed various machine learning techniques. The resulting model demonstrated remarkable accuracy and highlighted the distinct language patterns of ultralight backpackers and campers.
 
 # Background
 ### Differences between camping and ultralight backpacking
